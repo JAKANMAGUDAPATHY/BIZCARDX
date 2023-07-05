@@ -1,7 +1,7 @@
 # BIZCARDX
 Project Overview:
 
-                The "BizCard" project aims to simplify the process of extracting and managing information from business cards. With this application, users can upload an image of a business card, extract relevant details using Optical Character Recognition (OCR), and display the extracted data. Additionally, users have the option to store the extracted information in a MySQL database for easy access and management. The project utilizes various libraries such as pandas, numpy, streamlit, easyocr, PIL, cv2, and re to achieve its functionalities.
+The "BizCard" project aims to simplify the process of extracting and managing information from business cards. With this application, users can upload an image of a business card, extract relevant details using Optical Character Recognition (OCR), and display the extracted data. Additionally, users have the option to store the extracted information in a MySQL database for easy access and management. The project utilizes various libraries such as pandas, numpy, streamlit, easyocr, PIL, cv2, and re to achieve its functionalities.
 
 Workflow:
 
